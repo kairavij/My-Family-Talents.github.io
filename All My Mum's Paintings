@@ -1,7 +1,33 @@
 <!doctype html>
-<head></head>
+<head>
+<style>
+a
+{
+color:black;
+background-color:pink;
+}
+</style>
+</head>
 <body>
 Here are all my mother's (Payal's) paintings! Please hover over them to view their description.
 <br>
 <br>
 <img src="Tree Painting.jpg" height="250" width="250" border="3" title="This is My Mother's (Payal's) First Painting of a Tree!♥♥">
+&nbsp;
+&nbsp;
+&nbsp;
+<img src="Buddha Painting.jpg" height="250" width="250" border="3" title="This is My Mother's (Payal's) Painting of Lord Buddha!♥♥">
+&nbsp;
+&nbsp;
+&nbsp;
+<img src="Radha and Krishna Painting.jpg" height="250" width="250" border="3" title="This is My Mother's (Payal's) Painting of Devi Radha and Lord Krishna!♥♥">
+&nbsp;
+&nbsp;
+&nbsp;
+<img src="Kishanji Painting.jpg" height="250" width="250" border="3" title="This is My Mother's (Payal's) Painting of Kishanji!♥♥">
+<br>
+<br>
+<img src="Girl Painting.jpg" height="250" width="250" border="3" title="This is My Mother's (Payal's) Painting of a Girl during Sunset!♥♥">
+<a href="index.html" target="_blank">Click here to go back to homepage!♥♥</a>
+</body>
+</html>
